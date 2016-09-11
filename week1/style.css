@@ -53,10 +53,12 @@ h1{font-size: 15px;
    position: relative;}
 h1 a{position: absolute;
     right: 7px;}
-.q4 h1 a{color: aliceblue;}
-.q5 h1 a{color: aliceblue;}
-.q4 h1 a:hover{text-decoration:none;}
-.q5 h1 a:hover{text-decoration:none;}
+.q4 h1 a{color:aliceblue;}
+.q5 h1 a{color:aliceblue;}
+.q4 h1 a:hover{text-decoration:none;
+               color: black;}
+.q5 h1 a:hover{text-decoration:none;
+               color: black;}
 .q6 h1 a:hover{text-decoration:none;}
 a{text-decoration:none;}
 .q1,.q7 a{color: aliceblue;}
