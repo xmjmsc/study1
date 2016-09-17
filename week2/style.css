@@ -1,0 +1,24 @@
+.q1{width: 1171px;
+margin-left: auto;
+margin-right: auto;}
+.q2{width:auto;
+    height: auto;
+    background:#33A1C9;
+    }
+.q2 ul{width: 1171px;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;}
+.q2 li{display: inline-block;
+    width: 100px;
+    height: 20px;}
+.q7{width: 1171px;
+margin-left: auto;
+margin-right: auto;}
+.q3,.q4{width: 1171px;
+    margin-left: auto;
+    margin-right: auto;}
+.q3 .w1 div{display: inline-block;
+    width: 385px;}
+.q3 .w2 div{display: inline-block;
+    width: 385px;}
