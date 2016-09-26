@@ -1,8 +1,12 @@
 .q1{width: 1171px;
+    height: 175px;
 margin-left: auto;
 margin-right: auto;}
-.q1 h1{font:68px "宋体";color:#006986}
-.q1 h3{font:23px "微软雅黑",regular;color:#01475a;}
+.q1 h1{font:bold 68px "宋体";color:#006986;
+    margin-top: 40px;
+margin-bottom: 13px;}
+.q1 h3{font:bold 23px "微软雅黑",regular;color:#1e596a;
+margin-top: 0px;}
 .q2{width:auto;
     height: 50px;
     background:#33A1C9;
@@ -13,6 +17,8 @@ margin-right: auto;}
     background:#3d8da3;
     font:21px "微软雅黑";}
 .q2 ul{width: 1171px;
+    padding: 0px;
+    margin-top: 0px;
     margin-left: auto;
     margin-right: auto;
     text-align: center;}
@@ -21,19 +27,23 @@ margin-right: auto;}
     margin-right: auto;
     margin-bottom: 0px;
     margin-top: 0px;
+     padding: 0px;
     text-align: center;}
 .q2 li{display: inline-block;
     width: 119px;
     height: 50px;
 line-height: 50px;}
-.q2 a{color:#fff;}
-.q8 a{color:#fff;}
+.q2 a{color:#fff;
+display: inline-block;
+width: 119px;}
+.q8 a{color:#fff;
+display: inline-block;
+width: 185px;}
 .q2 a:hover{
      color:#33A1C9;}
 .q8 a:hover{
      color:#33A1C9;}
 .q2 li:hover{background: #fff;}
-
 .q8 li:hover{background: #fff;}
 .q7{width: 1171px;
 margin-left: auto;
@@ -59,14 +69,15 @@ line-height: 50px;}
     margin-right: auto;
 }
 .q4 .q41 div{display: inline-block;
-    width: 345px;
+    width: 340px;
 vertical-align: top;}
 .q4 .q41 .w4{font:32px/1.5em "黑体";
     color:#006986;
     margin:auto 0px;
     width:32px;
 height: 140px;
-line-height: 70px;}
+line-height: 70px;
+border-right: 3px solid #006986;}
 .q6{width:auto;
     height: auto;
     background:#006986;}
@@ -82,5 +93,7 @@ margin-right: 50px;}
 a{text-decoration:none;}
 .q3 a{font:17px "微软雅黑";line-height: 37px;color: black;}
 .q4 a{font:17px "微软雅黑";line-height: 1.7em;color: black;}
-
+h2{font: 27px "微软雅黑";color:#006986;}
+.q3 .w2 .e1 li{border-bottom: 3px solid #006986}
+.q3 .w2 .e3 li{border-bottom: 3px solid #006986}
 
