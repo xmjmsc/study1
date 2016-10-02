@@ -1,0 +1,91 @@
+ .q1,.q7{width: auto;
+    margin-left: auto;
+     margin-right: auto;
+    background:#2b7ea8;}
+ .q11,.q71{width: 1112px;
+     height: 50px;
+     line-height: 50px;
+    margin-left: auto;
+    margin-right: auto;}
+ .q2{width: 1112px;
+     margin-left: auto;
+     margin-right: auto;}
+.q3{width: 1112px;
+    height: auto;
+    margin-left: auto;
+    margin-right: auto;
+    background:#6bc3ef;
+    text-align: center;}
+.q3 ul{margin-bottom: 0px;
+       margin-top: 0px;}
+.q3 li{display: inline-block;
+    width: 155px;
+    height: 50px;
+line-height: 50px;}
+.q3 li:hover{background: #3c98c9;}
+.q0{width:1112px;
+    height: auto;
+    margin-left: auto;
+    margin-right: auto;
+    position: relative;}
+.q4{display: inline-block;}
+.q4 img{width: 400px;
+height: 215px;}
+.q5{display: inline-block;
+    vertical-align: top;
+    width: 400px;
+    margin-left: 10px;
+    margin-right: 10px;}
+.q6{display: inline-block;
+    vertical-align: top;
+    width: 280px;
+    height: 583px;
+    position: absolute;
+    top: 9px;
+    border: 2px solid #c0c0c0;
+    border-bottom: none;}
+.q6 h1{background:none;
+    height: 35px;
+     border-bottom: 1px dashed #c0c0c0;}
+.q5 h1{height: 35px;
+line-height: 35px;}
+.q4 h1{height: 35px;
+    line-height: 35px;}
+.q0 a{font-size: 12px;
+     color: black;}
+.q0 a:hover{text-decoration:underline;
+     color: red;}
+.q71{text-align: center;}
+.q7 a:hover{color: red;}
+li{padding: 5px 0px;}
+h1{font-size: 15px;
+   background:#6bc3ef;
+   position: relative;}
+h1 a{position: absolute;
+    right: 7px;}
+.q4 h1 a{color:aliceblue;}
+.q5 h1 a{color:aliceblue;}
+.q4 h1 a:hover{text-decoration:none;
+               color: black;}
+.q5 h1 a:hover{text-decoration:none;
+               color: black;}
+.q6 h1 a:hover{text-decoration:none;}
+a{text-decoration:none;}
+.q1,.q7 a{color: aliceblue;
+font:bold 25px "宋体"}
+.q3 a{color: aliceblue;}
+.q7{color: aliceblue;
+font:bold 25px "宋体"}
+.q4>h1{font-family:"楷体"}
+.q5>h1{font-family:"楷体"}
+.q6>h1{font-family:"楷体"}
+.q4 li a{font:17px "宋体";
+line-height: 1.3em;}
+.q5 li a{font:17px "宋体";
+line-height: 1.3em;}
+.q6 li a{font:17px "宋体";
+line-height: 1.3em;}
+p{background: #ccc;
+font-size: 20px;
+margin-top: 0px;
+margin-bottom: 4px}
