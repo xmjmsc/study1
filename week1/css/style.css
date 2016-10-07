@@ -39,11 +39,9 @@ height: 215px;}
 .q6{display: inline-block;
     vertical-align: top;
     width: 280px;
-    height: 583px;
     position: absolute;
     top: 9px;
-    border: 2px solid #c0c0c0;
-    border-bottom: none;}
+    border: 2px solid #c0c0c0;}
 .q6 h1{background:none;
     height: 35px;
      border-bottom: 1px dashed #c0c0c0;}
@@ -55,6 +53,9 @@ line-height: 35px;}
      color: black;}
 .q0 a:hover{text-decoration:underline;
      color: red;}
+.q0{position: relative;}
+.q6{position: absolute;
+top: 0px;}
 .q71{text-align: center;}
 .q7 a:hover{color: red;}
 li{padding: 5px 0px;}
@@ -63,6 +64,11 @@ h1{font-size: 15px;
    position: relative;}
 h1 a{position: absolute;
     right: 7px;}
+.q0 li{font-size: 25px;
+   position: relative;}
+.q0 li p{position: absolute;
+    right: 0px;
+top:8px;}
 .q4 h1 a{color:aliceblue;}
 .q5 h1 a{color:aliceblue;}
 .q4 h1 a:hover{text-decoration:none;
@@ -81,11 +87,35 @@ font:bold 25px "宋体"}
 .q6>h1{font-family:"楷体"}
 .q4 li a{font:17px "宋体";
 line-height: 1.3em;}
-.q5 li a{font:17px "宋体";
-line-height: 1.3em;}
-.q6 li a{font:17px "宋体";
-line-height: 1.3em;}
-p{background: #ccc;
+.q5 li a{font:17px "宋体";}
+.q6 li a{font:17px "宋体";}
+.q5 li{height: 22px;}
+.q4 li{height: 22px;}
+.q6 li{height: 22px;}
+.q4 p{background: #ccc;
 font-size: 20px;
 margin-top: 0px;
 margin-bottom: 4px}
+.q8{display: inline-block;
+    width: 825px;
+height:auto;
+border: 1px solid #3c98c9;}
+.q8 img{display: block;
+    width: 700px;
+margin-left: auto;
+margin-right: auto;}
+.q8 h2,h3{width: 800px;
+    text-align: center;
+margin-left: auto;
+     margin-right: auto;}
+.q8 li a{font: 23px "宋体"}
+.q81{border: 3px dashed #3c98c9;
+height: 35px;}
+.q81 p a{font:bold 23px "宋体"}
+.q81 p{font:bold 23px "宋体";
+margin-top: 4px;}
+.q83 p a{font:15px "宋体"}
+.q82{font:bold 23px "宋体"}
+.q82 a{display: inline-block;
+    font:bold 23px "宋体";
+width: 30px;}
